@@ -1,5 +1,7 @@
 # Solo Development Workflow
 
+![Solo Development Workflow](workflow.svg)
+
 ## Scenario Overview
 
 **Developer**: Sarah Martinez, freelance web developer  

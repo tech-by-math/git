@@ -1,5 +1,7 @@
 # Code Backup and Recovery Workflow
 
+![Code Backup and Recovery Workflow](workflow.svg)
+
 ## Scenario Overview
 
 **Developer**: Elena Rodriguez, freelance game developer  

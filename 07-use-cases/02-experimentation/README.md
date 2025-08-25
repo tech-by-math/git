@@ -1,5 +1,7 @@
 # Experimentation and Prototyping Workflow
 
+![Experimentation and Prototyping Workflow](workflow.svg)
+
 ## Scenario Overview
 
 **Developer**: Marcus Chen, full-stack developer at StartupTech  

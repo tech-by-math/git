@@ -1,5 +1,7 @@
 # Multi-Repository Projects Workflow
 
+![Multi-Repository Projects Workflow Workflow](workflow.svg)
+
 ## Scenario Overview
 
 **Organization**: CloudTech Solutions  

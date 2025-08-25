@@ -1,5 +1,7 @@
 # Enterprise Code Review Workflow
 
+![Enterprise Code Review Workflow](workflow.svg)
+
 ## Scenario Overview
 
 **Organization**: TechCorp, 500+ developer enterprise  

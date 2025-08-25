@@ -1,5 +1,7 @@
 # Monorepo Management Workflow
 
+![Monorepo Management Workflow Workflow](workflow.svg)
+
 ## Scenario Overview
 
 **Organization**: TechGiant Corp  

@@ -1,5 +1,7 @@
 # Maintainer Workflows
 
+![Maintainer Workflows Workflow](workflow.svg)
+
 ## Scenario Overview
 
 **Project**: Popular JavaScript UI library (10,000+ stars)  

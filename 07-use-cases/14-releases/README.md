@@ -1,5 +1,7 @@
 # Release Management Workflow
 
+![Release Management Workflow Workflow](workflow.svg)
+
 ## Scenario Overview
 
 **Organization**: Software startup with rapid growth  

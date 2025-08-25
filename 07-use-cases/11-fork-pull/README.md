@@ -1,5 +1,7 @@
 # Fork and Pull Request Workflow
 
+![Fork and Pull Request Workflow Workflow](workflow.svg)
+
 ## Scenario Overview
 
 **Project**: OpenWeather API client library  

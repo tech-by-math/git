@@ -1,5 +1,7 @@
 # Small Team Collaboration Workflow
 
+![Small Team Collaboration Workflow](workflow.svg)
+
 ## Scenario Overview
 
 **Team**: WebDev Solutions - 4-person development team  

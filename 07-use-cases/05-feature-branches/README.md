@@ -1,5 +1,7 @@
 # Feature Branch Workflow
 
+![Feature Branch Workflow](workflow.svg)
+
 ## Scenario Overview
 
 **Team**: TechCorp's mobile app development team  

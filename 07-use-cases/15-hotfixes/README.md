@@ -1,5 +1,7 @@
 # Hotfix and Emergency Patches Workflow
 
+![Hotfix and Emergency Patches Workflow Workflow](workflow.svg)
+
 ## Scenario Overview
 
 **Organization**: E-commerce platform with 24/7 operations  

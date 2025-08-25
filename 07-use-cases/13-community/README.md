@@ -1,5 +1,7 @@
 # Community Collaboration Workflow
 
+![Community Collaboration Workflow Workflow](workflow.svg)
+
 ## Scenario Overview
 
 **Project**: Linux Kernel (world's largest collaborative software project)  
